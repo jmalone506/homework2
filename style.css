@@ -16,3 +16,8 @@ body{
  .imgClass{
      border-radius: 50%;
  }
+ .imgClass2{
+     border-radius: 50%;
+     max-height: 50px;
+     max-width: 50px;
+ }
