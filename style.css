@@ -1,8 +1,18 @@
 body{
     background-color: slategray;
-    
+    background-image: url(./assets/Untitleddesign.png);
+    background-position-x: center ;
+    background-position:center;
+    background-position-y:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 2200px;
 }
-
+a{
+    padding: 20px;
+    font-size: 30px;
+    float: inline-end;
+}
  section{
      padding-left: 10px;
      padding-right: 10px;
