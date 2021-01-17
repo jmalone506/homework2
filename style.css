@@ -2,10 +2,7 @@ body{
     background-color: slategray;
     
 }
-head{
-    background-color: steelblue;
-    color: black;
-}
+
  section{
      padding-left: 10px;
      padding-right: 10px;
@@ -13,7 +10,7 @@ head{
      padding-bottom: 25px;
  }
  .navbar-brand{
-     background-color: slateblue;
+     
      color: black;
  }
  .imgClass{
