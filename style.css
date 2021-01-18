@@ -1,3 +1,4 @@
+
 body{
     background-color: white;
     background-image: url(./assets/touch1.png);
@@ -5,10 +6,11 @@ body{
     background-position:center;
     background-position-y:center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-size: 2500px;
     
 }
+
 a{
     padding: 20px;
     font-size: 30px;
@@ -53,3 +55,4 @@ a{
  .col{
      border-radius: 10px 10px 10px 10px;
  }
+ 
