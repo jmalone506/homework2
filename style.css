@@ -50,3 +50,6 @@ a{
      max-width: 1200px;
      max-height: 750px;
  }
+ .col{
+     border-radius: 10px 10px 10px 10px;
+ }
