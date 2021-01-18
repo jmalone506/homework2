@@ -1,12 +1,13 @@
 body{
     background-color: slategray;
-    background-image: url(./assets/Untitleddesign.png);
+    background-image: url(./assets/touch1.png);
     background-position-x: center ;
     background-position:center;
     background-position-y:center;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 2200px;
+    background-size: contain;
+    background-size: 2500px;
+    
 }
 a{
     padding: 20px;
@@ -44,4 +45,8 @@ a{
      border-radius: 50%;
      max-height: 50px;
      max-width: 50px;
+ }
+ .imgClass3{
+     max-width: 1200px;
+     max-height: 750px;
  }
